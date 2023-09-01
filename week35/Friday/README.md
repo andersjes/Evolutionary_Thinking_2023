@@ -15,11 +15,13 @@ In order to use GenBank efficiently, as other databases such as [PubMed](https:/
 
 By searching papers in [PubMed](https://pubmed.ncbi.nlm.nih.gov) and [GenBank](https://www.ncbi.nlm.nih.gov/genbank/) (and Google for sure), answer the following questions:
 
-1. Find and download the paper of the first sequence of the human genome by the International Human Genome Sequencing Consortium or the one assembled by Craig Venter et al in 2001. Where was it published? How can the sequence be obtained?
-2. Find the paper on the high coverage archaic Denisovan sequence published by Svante Pääbo's group published in 2012 and answer the same questions. Who were the Denisovans?
-3. How many sequences from the dolphin (you might want to use the latin name *Delphinidae*) can you find? You can choose any other animal!
-4. Find the Taxonomic position of Dolphins and find the number of DNA sequences deposited in GenBank for some of the dolphin species
-5. Find sequences from FOXP2. What can you learn about this protein?
+1. Find and download the paper of the first sequence of the human genome by the International Human Genome Sequencing Consortium or the one assembled by Craig Venter et al in 2001. Where was it published? How can the sequence be obtained? Sience 2001
+2. Find the paper on the high coverage archaic Denisovan sequence published by Svante Pääbo's group published in 2012 and answer the same questions. Who were the Denisovans? "A High-Coverage Genome Sequence from an Archaic Denisovan Individual", Sience 2012
+4. How many sequences from the dolphin (you might want to use the latin name *Delphinidae*) can you find? You can choose any other animal! 26 dolphin and 5 cats
+5. Find the Taxonomic position of Dolphins and find the number of DNA sequences deposited in GenBank for some of the dolphin species
+   ![image](https://github.com/andersjes/Evolutionary_Thinking_2023/assets/143709873/73cb55e3-c536-4583-9db3-dbbda009c6e7)
+
+7. Find sequences from FOXP2. What can you learn about this protein?
 
 ### 2. Retrieving sequences from GenBank and Aligning them with MEGA11
 
